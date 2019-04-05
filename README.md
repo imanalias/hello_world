@@ -1,2 +1,2 @@
 # hello_world
-this is my first git
+Iman here. This is my first time on github.
